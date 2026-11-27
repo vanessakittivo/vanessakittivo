@@ -36,8 +36,6 @@ const vanessa = {
 | Project | What it does | Technologies |
 | --- | --- | --- |
 | [**Tella**](https://get-tella.vercel.app) | Accessible payment experience for blind and low-vision shopkeepers, using voice guidance and optional vibration. | React, TypeScript, Node.js, Fastify |
-| [**Quizari**](https://quizari.website) | Game-style Python learning with short lessons, quizzes, and hands-on missions. | React, TypeScript, Supabase, Python |
-| [**The Coding Cove**](https://thecodingcove.tech) | Free programming education platform with lessons, CoveBot, and notes. | Node.js, Express, PostgreSQL |
 | [**Cyelle**](https://cy-elle.app) | Menstrual-cycle tracking app with a calendar, phase guides, and optional reminders. | JavaScript, TypeScript, HTML, CSS |
 | [**FreeQRGenerator247**](https://freeqrgenerator247.site) | QR code generator for links, Wi-Fi, contact details, and more. | TypeScript, JavaScript, HTML, CSS |
 
